@@ -1,0 +1,91 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8588235294117647,
+        "green": 0.5960784313725489,
+        "red": 0.2039215686274511
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2352941176470588,
+        "green": 0.2980392156862745,
+        "red": 0.9058823529411765
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.07058823529411763,
+        "green": 0.6117647058823531,
+        "red": 0.9529411764705882
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.05882352941176471,
+        "green": 0.7686274509803921,
+        "red": 0.9450980392156862
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4431372549019608,
+        "green": 0.8,
+        "red": 0.1803921568627451
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.611764705882353,
+        "green": 0.7372549019607844,
+        "red": 0.1019607843137254
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8588235294117647,
+        "green": 0.5960784313725489,
+        "red": 0.2039215686274511
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "do_objectID": "23E15808-7CC4-42E5-9A10-B1C8D838C7B5",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "46.2",
+    "build": 44496,
+    "commit": "752502a5f62450dd6555e39d77a464fb4c5043e7",
+    "version": 93
+  },
+  "pages": [
+    "Page 1",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

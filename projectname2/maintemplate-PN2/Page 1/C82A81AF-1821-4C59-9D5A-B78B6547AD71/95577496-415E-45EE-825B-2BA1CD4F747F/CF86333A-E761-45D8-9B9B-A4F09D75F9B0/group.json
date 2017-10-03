@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "CF86333A-E761-45D8-9B9B-A4F09D75F9B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 182,
+    "width": 812,
+    "x": 1218,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F6260455-AA04-4A36-8CBD-7BEA811DD561"
+    },
+    {
+      "class": "text",
+      "id": "9198733E-C2D6-46E4-BC15-4835B44EC27E"
+    },
+    {
+      "class": "text",
+      "id": "AB1AE6D3-6286-48BD-B8FA-3481898A79F1"
+    }
+  ],
+  "name": "Textareas",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

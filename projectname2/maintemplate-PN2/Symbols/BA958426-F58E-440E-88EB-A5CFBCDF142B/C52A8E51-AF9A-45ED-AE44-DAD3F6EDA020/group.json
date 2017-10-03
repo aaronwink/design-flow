@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "C52A8E51-AF9A-45ED-AE44-DAD3F6EDA020",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 794,
+    "x": 9,
+    "y": 64.5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "161BD0A2-BA06-47FF-8988-7B3AEE3DE512"
+    }
+  ],
+  "name": "Modal body",
+  "nameIsFixed": true,
+  "originalObjectID": "C52A8E51-AF9A-45ED-AE44-DAD3F6EDA020",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "4D25E55F-8B76-49F7-BBC2-6BF0BEC177C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B377AF1F-A190-4A94-8EEB-C36B69EB836E",
+    "height": 725,
+    "width": 1129,
+    "x": 1219,
+    "y": 1744
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AD491BEC-E8A8-47AD-AECA-FBC576DE08B1"
+    },
+    {
+      "class": "text",
+      "id": "7FA4613B-06D3-4663-96D0-085F23291F4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB26D945-AC3C-4241-985C-AD4F5FFC12C9"
+    },
+    {
+      "class": "text",
+      "id": "1A43FCDC-10E9-471B-96D2-D2522721A5D9"
+    },
+    {
+      "class": "text",
+      "id": "467BA818-CE53-4948-9B54-5F07E2599C54"
+    }
+  ],
+  "name": "Carousels",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

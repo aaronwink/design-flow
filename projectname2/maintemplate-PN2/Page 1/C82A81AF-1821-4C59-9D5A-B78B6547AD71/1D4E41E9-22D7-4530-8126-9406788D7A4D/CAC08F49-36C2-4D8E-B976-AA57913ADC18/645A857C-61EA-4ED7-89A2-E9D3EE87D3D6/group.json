@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "645A857C-61EA-4ED7-89A2-E9D3EE87D3D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DBB5D643-826D-4C22-805A-486FEB05EDEA",
+    "height": 44,
+    "width": 391,
+    "x": 226,
+    "y": 425
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2A6C3DB6-EC80-4BF7-B8C7-567E8861533E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A93C9318-B6E0-4BEA-996C-8D535BD770EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "47DD957E-3DC3-46FA-9896-5C656183FBA1"
+    },
+    {
+      "class": "text",
+      "id": "D06B6645-B3D9-41F6-AFB3-57F479A57BEE"
+    }
+  ],
+  "name": "Warning Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

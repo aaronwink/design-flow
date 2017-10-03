@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "BEE34206-E76D-4B0F-B36D-BA32AA479B05",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 369,
+    "x": 250,
+    "y": 253
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AD464B42-1257-4966-9727-B3C189A1D619"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4BE8186-B0E6-4081-96E2-40E65108214B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "77559F8F-C396-4D9F-B5CA-7A3E35C73EFE"
+    },
+    {
+      "class": "text",
+      "id": "52F0AA55-8483-4D96-ACDB-EA1BDACB0C75"
+    }
+  ],
+  "name": "Small Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

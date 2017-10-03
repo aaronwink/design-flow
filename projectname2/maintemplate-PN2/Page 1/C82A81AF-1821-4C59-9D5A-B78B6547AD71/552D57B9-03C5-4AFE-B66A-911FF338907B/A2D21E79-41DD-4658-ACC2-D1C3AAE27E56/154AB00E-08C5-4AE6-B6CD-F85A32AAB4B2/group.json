@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "154AB00E-08C5-4AE6-B6CD-F85A32AAB4B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "032BA65E-E30F-423A-8A34-405700145273",
+    "height": 242,
+    "width": 44,
+    "x": 286,
+    "y": 22
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B1943DAB-48F1-4BC1-BAC3-8DFBD97EA043"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AEE66EA4-852B-444B-BB9A-D924CBE7328D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2FD2E511-7898-425B-8519-A81FE32DF024"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "038D8C63-F236-48EC-9FBB-2F22112FFEF4"
+    }
+  ],
+  "name": "Teal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
